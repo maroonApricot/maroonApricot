@@ -1,5 +1,5 @@
 ### Hi there :D
-the cosmos project is my greatest accomplishment so check it out >:)
+my cosmos project is my greatest accomplishment so check it out >:)
 
 <!--
 **maroonApricot/maroonApricot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
